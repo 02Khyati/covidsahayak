@@ -1,0 +1,412 @@
+/* first section */
+
+.firstsection{
+  background-color: #3cfcf2;
+
+}
+
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.logo{
+  position:relative;
+  bottom:10px;
+
+}
+
+.logoname{
+  position:relative;
+  bottom:30px;
+  font-size: 10px;
+}
+
+.unity{
+position: relative;
+top:50px;
+left:150px;
+bottom:50px;
+height: 170px;
+width:180px;
+
+
+}
+
+.intro{
+  position: relative;
+  left:400px;
+  bottom:180px;
+  font-family: Montserrat;
+font-size: 50px;
+text-align: center;
+color:blue;
+width:60%;
+}
+
+.introduce{
+  position: relative;
+  left:400px;
+  bottom:200px;
+  font-family: Montserrat;
+font-size: 50px;
+text-align: center;
+color:blue;
+width:60%;
+}
+
+/* second section */
+.secondsection{
+  text-align: center;
+}
+
+.digital{
+  margin-top: 100px;
+  color:#11999E;
+  font-family: Montserrat;
+  font-size: 40px;
+  width:100%;
+}
+
+.key{
+    font-size: 40px;
+  color:#11999E;
+  font-family: Montserrat;
+  width:100%;
+}
+
+.lock{
+  color:#F0A500;
+  font-size: 40px;
+}
+
+.wifi{
+  color: #16697A;
+  font-size: 40px;
+}
+
+.commerce{
+  text-align: center;
+  padding-top: 80px;
+  font-size: 40px;
+  color: #11999E;
+}
+
+.commerce-row{
+  width:60%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+
+.shop {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: left;
+}
+.med {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: right;
+
+}
+
+.infoshop{
+  font-size: 20px;
+  color: #11999E;
+}
+.infomed{
+  font-size: 20px;
+  color: #11999E;
+}
+
+hr{
+
+  border-style: dotted;
+border-width: 0 0 0.5rem 0;
+border-color:orange ;
+width: 5%;
+background-color: white;
+margin-left: 580px;
+
+}
+
+.health{
+  text-align: center;
+  padding-top: 80px;
+  font-size: 40px;
+  color: #11999E;
+}
+
+.health-row{
+  width:60%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+
+.fit {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: left;
+
+}
+.diet {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: right;
+
+}
+
+.infofit{
+  font-size: 20px;
+  color: #11999E;
+}
+.infodiet{
+  font-size: 20px;
+  color: #11999E;
+}
+
+.education{
+  text-align: center;
+  padding-top: 80px;
+  font-size: 40px;
+  color: #11999E;
+}
+
+.education-row{
+  width:60%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+
+.edu {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: left;
+}
+.skill {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: right;
+
+}
+
+.infoschool{
+  font-size: 20px;
+  color: #11999E;
+}
+.infoskill{
+  font-size: 20px;
+  color: #11999E;
+}
+
+.entertain{
+  text-align: center;
+  padding-top: 80px;
+  font-size: 40px;
+  color: #11999E;
+}
+
+.entertain-row{
+  width:60%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+
+.enter {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: left;
+}
+.movie {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: right;
+
+}
+
+.infogame{
+  font-size: 20px;
+  color: #11999E;
+}
+.infomovie{
+  font-size: 20px;
+  color: #11999E;
+}
+
+.interact{
+  text-align: center;
+  padding-top: 80px;
+  font-size: 40px;
+  color: #11999E;
+}
+
+.interact-row{
+  width:60%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+
+.family {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: left;
+}
+.meet {
+  border-radius: 50%;
+  width:30%;
+  height:200px;
+float: right;
+
+}
+
+.infohi{
+  font-size: 20px;
+  color: #11999E;
+}
+.infosir{
+  font-size: 20px;
+  color: #11999E;
+}
+
+/* third section */
+
+#testimonials{
+  text-align: center;
+  background-color: #548CA8;
+  color:white;
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.safe{
+width:30%;
+border-radius: 100%;
+margin:20px;
+margin-left: 300px;
+}
+
+.yes{
+  position:relative;
+bottom:400px;
+  height:200px;
+  width:25%;
+
+  margin:20px;
+   margin-left: 500px;
+
+}
+
+.slide{
+
+  text-align: left;
+  font-size: 50px;
+  font-family: Montserrat;
+  /* padding-bottom: 2px; */
+
+}
+
+.win{
+  font-family: Montserrat;
+
+  font-size: 50px;
+
+
+}
+
+.first{
+  margin-top: 0px;
+  height: 550px;
+}
+
+.follow{
+  font-family: Montserrat;
+  font-size: 60px;
+
+  text-align: center;
+}
+
+.home{
+  margin-top: 100px;
+  color:#11999E;
+  font-size: 50px;
+  text-align: center;
+}
+
+.india{
+  color:#11999E;
+  font-size: 50px;
+  text-align: center;
+}
+
+.end{
+  margin-top: 100px;
+  text-align: center;
+  background-color: #34d9b8;
+  color:white;
+  padding: 40px;
+  font-size: 12px;
+}
+
+
+.amazon{
+  display:inline-block;
+  margin-right:10px;
+  font-size: 12px;
+
+}
+
+.grofers{
+display:inline-block;
+margin-right:10px;
+font-size: 12px;
+}
+
+.swiggy{
+display:inline-block;
+margin-right:10px;
+font-size:12px;
+}
+
+.zomato{
+display:inline-block;
+margin-right:10px;
+font-size: 12px;
+}
+
+.space{
+  display:inline-block;
+  margin-right:10px;
+  font-size: 12px;
+
+}
+
+.inject{
+  height: 550px;
+}
+
+a:hover{
+  color: orange;
+}
